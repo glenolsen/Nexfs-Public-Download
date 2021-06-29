@@ -15,4 +15,4 @@ As software-defined storage Nexfs offers flexibility, including the ability to c
 
 Nexfs Software is distributed under the [Nexustorage Terms & Conditions](https://www.nexustorage.com/nexustorage-terms-and-conditions) and [Nexustorage EULA](https://www.nexustorage.com/nexustorage-end-user-license-agreem)
 
-Nexfscli is an opensource project which can be used to manage nexfs while also providing code examples of how to use the nexfs direct managment file API
+Nexfscli is an opensource project which can be used to manage nexfs while also providing code examples on how to use the nexfs direct managment file API
