@@ -1,5 +1,8 @@
-# Nexfs-Public-Download
+# Note: This may not be the latest realease
+# Primary Download is now from https://www.nexustorage.com/nexustorage-downloads
 
+
+# Nexfs-Public-Download
 Vist our website for more information on [Nexustorage Nexfs](http://nexustorage.com)
 
 
