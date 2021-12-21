@@ -1,4 +1,5 @@
 # Nexfs-Public-Download
+# Note: The lastest downloads can always be found in the downloads section of the Nexustorage website
 
 Vist our website for more information on [Nexustorage Nexfs](http://nexustorage.com)
 
