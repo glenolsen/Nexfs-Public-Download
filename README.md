@@ -7,7 +7,7 @@ Nexfs from Nexustorage can significantly reduce data risk and costs through unit
 
 Nexfs delivers a unified smart, cost-effective and massively scalable storage solution.
 
-Where other solutions attempt to bridge the gap in storage technologies, most then fail in the field or add cost, complexity, Nexfs is different; instead of attempting to merely bridge-the-gap, Nexfs unites traditional block, file, cloud and object storage technologies, presenting a single feature-rich pool of storage. 
+Where other solutions attempt to bridge the gap in storage technologies, many have failed in the field, others add cost, complexity, Nexfs is different; instead of attempting to merely bridge-the-gap, Nexfs unites traditional block, file, cloud and object storage technologies, presenting a single feature-rich pool of storage. 
 
 As software-defined storage Nexfs offers flexibility, including the ability to configure and deploy storage systems your way; you choose the type of hardware, be that physical, virtual, cloud, or hybrid
 
