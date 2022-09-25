@@ -1,13 +1,13 @@
-# Nexfs-Public-Download
+# Nexfs-Public-Download 
 # Note: The lastest downloads can always be found in the downloads section of the Nexustorage website
 
 Vist our website for more information on [Nexustorage Nexfs](http://nexustorage.com)
 
-Nexfs from Nexustorage can significantly reduce data risk and costs through united block, file, cloud and object storage technology.
+Nexfs from Nexustorage protects data and lowers costs through united block, file, cloud and object storage technology.
 
 Nexfs delivers a unified smart, cost-effective and massively scalable storage solution.
 
-Where other solutions attempt to bridge the gap in storage technologies, many have failed in the field, others add cost, complexity, Nexfs is different; instead of attempting to merely bridge-the-gap, Nexfs unites traditional block, file, cloud and object storage technologies, presenting a single feature-rich pool of storage. 
+Nexfs does not attempt to bridge the gap in storage technologies, many have failed in the field, Nexfs unites traditional block, file, cloud and object storage technologies, presenting a single feature-rich pool of storage, reducing cost, complexity. 
 
 As software-defined storage Nexfs offers flexibility, including the ability to configure and deploy storage systems your way; you choose the type of hardware, be that physical, virtual, cloud, or hybrid
 
@@ -15,6 +15,18 @@ Nexfs Software is distributed under the [Nexustorage Terms & Conditions](https:/
 
 Nexfscli is an opensource project which can be used to manage nexfs while also providing code examples on how to use the nexfs direct managment file API
 
+Nexfs Release 0.99.0 Highlights include:
+  * Integrated Admin Web Console, For Management, Configuration and Service Overview
+  * Configure iSCSI and NFS through the Admin Web Console
+  * New Management API with AWS Style Version 4 Signatures 
+  * Role-Based Security
+  * SNMP Traps (v2c/3) - Service Status Change Alerts 
+  * Remote Service Monitoring (Poll Service Status using HTTP)
+  * Automated Structure MetaData Replication 
+  * Automated Structure MetaData Replication Active Volume Failover
+  * Support for Multiple Nexfs Instances Running on a Single Server
+  * Accumulator Counters (For external Monitoring and graph), in addition to existing 60-minute statistics
+  
 Nexfs Release 0.95 Highlights include:
   * Integrated iSCSI Server		
   * Managed NFS v3 & v4			
