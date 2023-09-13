@@ -15,6 +15,11 @@ Nexfs Software is distributed under the [Nexustorage Terms & Conditions](https:/
 
 Nexfscli is an opensource project which can be used to manage nexfs while also providing code examples on how to use the nexfs direct managment file API
 
+Nexfs Release 1.01.03(23)Highlights include:
+  * Added HTTPS server option for Management Console
+  * Added HTTPS server option for Content Server (S3 API)
+  * Added SSL Certificate Management
+    
 Nexfs Release 1.01(23)Highlights include:
   * Intergrated S3 API server
   * Mapped S3 to POSIX ACLs
