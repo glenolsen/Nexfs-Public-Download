@@ -18,7 +18,7 @@ Nexfscli is an opensource project which can be used to manage NexFS while also p
 NexFS Release 1.01.04(23)Highlights include:
   * Added DeleteObjects API method to Content Server (S3 API)
   * Enhanced Nexfs Server to use ListObjectv2 and DeleteObject when purging datafiles from S3 API Storage
-  * Ehnanced Managed Capacity Accounting
+  * Enhanced Managed Capacity Accounting
     
 NexfS Release 1.01.03(23)Highlights include:
   * Added HTTPS server option for Management Console
